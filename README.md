@@ -1,1 +1,1 @@
-fix predict with class filter
+Fix OpenVINO links (#7930)
